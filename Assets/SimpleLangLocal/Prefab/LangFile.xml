@@ -1,0 +1,37 @@
+<Data>
+	<EN Key = "Hello"	Word = "Hello"/>
+	<EN Key = "Start"	Word = "Start"/>
+	<EN Key = "Options"	Word = "Options"/>
+	<EN Key = "Back"	Word = "Back"/>
+	<EN Key = "Last Score"	Word = "Last Score"/>
+	<EN Key = "High Score"	Word = "High Score"/>
+	<EN Key = "Turrets"	Word = "Turrets"/>
+	<EN Key = "Health"	Word = "Health"/>
+	<EN Key = "Difficulty"	Word = "Difficulty"/>
+	<EN Key = "Time"	Word = "Time"/>
+	<EN Key = "Score"	Word = "Score"/>
+
+	<ES Key = "Hello"	Word = "Hola"/>
+	<ES Key = "Start"	Word = "Empezar"/>
+	<ES Key = "Options"	Word = "Opciones"/>
+	<ES Key = "Back"	Word = "Volver"/>
+	<ES Key = "Last Score"	Word = "Nuevo Resultado"/>
+	<ES Key = "High Score"	Word = "Alto Resultado"/>
+	<ES Key = "Turrets"	Word = "Torretas"/>
+	<ES Key = "Health"	Word = "Vitalidad"/>
+	<ES Key = "Difficulty"	Word = "Dificultad"/>
+	<ES Key = "Time"	Word = "Tiempo"/>
+	<ES Key = "Score"	Word = "Resultado"/>
+
+	<FR Key = "Hello"	Word = "Bonjour"/>
+	<FR Key = "Start"	Word = "Commencer"/>
+	<FR Key = "Options"	Word = "Options"/>
+	<FR Key = "Back"	Word = "Retour"/>
+	<FR Key = "Last Score"	Word = "Nouveau Résultat"/>
+	<FR Key = "High Score"	Word = "Meilleur Résultat"/>
+	<FR Key = "Turrets"	Word = "Tourelles"/>
+	<FR Key = "Health"	Word = "Vitalité"/>
+	<FR Key = "Difficulty"	Word = "Difficulté"/>
+	<FR Key = "Time"	Word = "Temps"/>
+	<FR Key = "Score"	Word = "Résultat"/>
+</Data>

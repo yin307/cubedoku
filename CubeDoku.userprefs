@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SimpleLangLocal\Prefab\LangFile.xml">
+    <Files>
+      <File FileName="Assets\SimpleLangLocal\Prefab\LangFile.xml" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controllers\CubeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controllers\ArrayController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Define\StyleGrid.cs" Line="1" Column="1" />
+      <File FileName="..\Unity5Project\Same\Assets\Scripts\GridManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Helpers\ArrayHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Models\GroupSame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controllers\Define.cs" Line="1" Column="1" />
+      <File FileName="Assets\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\BoderController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
